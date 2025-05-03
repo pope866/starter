@@ -1613,14 +1613,14 @@
             return t;
           },
           a = {
-            LOCALHOST: 36300,
-            TMP_STAGING: 69573,
-            STAGING: 69573,
-            STAGING_BE: 69573,
-            STAGING_ME: 69573,
-            PRODUCTION: 69573,
-            PRODUCTION_BE: 69573,
-            PRODUCTION_ME: 69573,
+            LOCALHOST: 72389,
+            TMP_STAGING: 72389,
+            STAGING: 72389,
+            STAGING_BE: 72389,
+            STAGING_ME: 72389,
+            PRODUCTION: 72389,
+            PRODUCTION_BE: 72389,
+            PRODUCTION_ME: 72389,
           },
           n = {
             "master.bot-standalone.pages.dev": a.TMP_STAGING,
